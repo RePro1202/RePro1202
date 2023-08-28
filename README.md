@@ -1,8 +1,8 @@
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RePro1202&show_icons=true&theme=radical)
+![RePro1202's GitHub stats](https://github-readme-stats.vercel.app/api?username=RePro1202&count_private=true&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=op852456)](https://solved.ac/op852456)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RePro1202&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RePro1202&layout=compact&theme=dracula&count_private=true&hide=ShaderLab&langs_count=3)
 
 <!--
 **RePro1202/RePro1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
