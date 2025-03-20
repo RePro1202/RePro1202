@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Jaehyun%20Jung&height=150&fontSize=80&desc=%20game%20developer&descAlignY=75&descAlign=61)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Jaehyun%20Jung&height=150&fontSize=80&desc=%20game%20developer&descAlignY=75&descAlign=61&textBg=true)
 
 # About Me
 
@@ -25,11 +25,13 @@
 
 ### The Tower
 
+### The Clone
+
 ### On Travle
 
 ### Online Texas hold'em
 
-### Train Game
+### [Train Game](https://github.com/RePro1202/TrainGame_Refactoring)
 
 #
 <!--  
