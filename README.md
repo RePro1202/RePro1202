@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=Jaehyun%20Jung&height=150&fontSize=80&desc=%20game%20developer&descAlignY=75&descAlign=61&textBg=true)
 
-# About Me
-
 # Skills
 ### Language & Engine
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
